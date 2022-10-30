@@ -70953,7 +70953,7 @@ e=B.mh.gme().ca(c)
 d=document.createElement("a")
 d.href="data:application/octet-stream;charset=utf-16le;base64,"+e
 c=b.a.c
-a=A.al8("dd-MM-yyyy-HH-mm")
+a=A.al8("dd-MM-yyyy")
 b=b.a.c.b
 d.setAttribute("download","audit-"+c.d+"-"+a.mk(0,b==null?new A.co(Date.now(),!1):b)+".pdf")
 d.click()
